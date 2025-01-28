@@ -1,7 +1,7 @@
 
 import React from 'react'
 import { useContext } from 'react'
-import { Contexto } from '../context/context';
+import { Contexto } from '../../context/context'
 
 const Nieto = () => {
 

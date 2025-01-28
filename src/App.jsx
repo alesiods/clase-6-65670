@@ -1,6 +1,6 @@
 import React from 'react'
 import Abuelo from './componentes/Abuelo/Abuelo'
-import { Contexto } from './componentes/context/context'
+import { Contexto } from './context/context'
 
 //El contexto tiene 3 partes:
 //el contexto en si
